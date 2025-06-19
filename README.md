@@ -1,4 +1,4 @@
-# ToDo App
+# ToDo List App
 
 Um aplicativo de lista de tarefas (ToDo) desenvolvido com React, TypeScript e Vite, com foco em organização, produtividade e boas práticas de desenvolvimento front-end.
 
@@ -7,7 +7,6 @@ Um aplicativo de lista de tarefas (ToDo) desenvolvido com React, TypeScript e Vi
 - [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Vite](https://vitejs.dev/)
-- (Adicione aqui outras libs/frameworks utilizadas, se houver)
 
 ## 📦 Estrutura do Projeto
 
@@ -30,7 +29,6 @@ src/
 
 - Adicionar, editar e remover tarefas
 - Marcar tarefas como concluídas
-- (Adicione aqui outras funcionalidades, como filtros, prioridades, etc.)
 
 ## 🖥️ Como rodar o projeto
 
