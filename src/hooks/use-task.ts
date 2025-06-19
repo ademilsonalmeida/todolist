@@ -1,5 +1,5 @@
 import useLocalStorage from "use-local-storage";
-import { Task, TASKS_KEY, TaskState } from "../models/task";
+import { type Task, TASKS_KEY, TaskState } from "../models/task";
 import { delay } from "../helpers/utils";
 import React from "react";
 

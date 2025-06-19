@@ -9,7 +9,7 @@ import PencilIcon from "../assets/icons/pencil.svg?react";
 import XIcon from "../assets/icons/x.svg?react";
 import CheckIcon from "../assets/icons/check.svg?react";
 import InputText from "../components/input-text";
-import { Task, TaskState } from "../models/task";
+import { type Task, TaskState } from "../models/task";
 import { cx } from "class-variance-authority";
 import useTask from "../hooks/use-task";
 import Skeleton from "../components/skeleton";
